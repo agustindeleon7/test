@@ -3,4 +3,4 @@ disabled_rules: # rule identifiers to exclude from running
  - closure_body_length
  - force_try
  - large_tuple
-- let_var_whitespace
+ - let_var_whitespace
